@@ -1,0 +1,34 @@
+
+div{float: left;
+ width: 31%;
+ box-sizing: border-box;
+ margin-right: 25px;
+
+}
+#hulk{
+	border: 100px solid #43913f;
+	background-color: #43913f;
+
+}
+.head{text-align: center;
+
+}
+
+.text{
+	text-align: center;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+#Spider-Man{
+		border: 100px solid #ba0227;
+	background-color: #ba0227;
+
+}
+#Captan-America{
+	border: 100px solid #0274a8;
+	background-color: #0274a8;
+}
